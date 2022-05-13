@@ -2,7 +2,7 @@
 
 - 💻 I work in the telecom and e-commerce industry
 - 💬 Ask me about gaming, software development or my cute dog.
-- 📫 You can reach me at danielyarza1@gmail.com
+- 📫 You can reach me at danielyarza1 + "at" + gmail.com
 ### Stats
 <p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dyarzanavarro&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
