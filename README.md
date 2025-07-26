@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 I work in the telecom and e-commerce industry
-- 💬 Ask me about gaming, software development or my cute dog.
+- 💬 Ask me about travelling, software development or my cute dog.
 - 📫 You can reach me at danielyarza1 + "at" + gmail.com
 ### Stats
 <p>
